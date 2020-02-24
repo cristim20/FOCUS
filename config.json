@@ -19,8 +19,8 @@
   },
   "server": {
     "location": {
-      "country": "{US}",
-      "city": "{BOSTON}"
+      "country": "USA",
+      "city": "BOSTON"
     },
     "server_type": "CLOUD",
     "api_endpoint": "http://18.224.67.253:9000"
