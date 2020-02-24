@@ -1,0 +1,29 @@
+# config.json
+{
+  "representative": {
+    "logo": {
+      "logo_256": "",
+      "logo_1024": "",
+      "logo_svg": ""
+    },
+    "media": {
+      "steemit": "",
+      "twitter": "https://twitter.com/ICXFOCUS",
+      "youtube": "",
+      "facebook": "",
+      "github": "",
+      "reddit": "",
+      "keybase": "",
+      "telegram": "",
+      "wechat": ""
+    }
+  },
+  "server": {
+    "location": {
+      "country": "{US}",
+      "city": "{BOSTON}"
+    },
+    "server_type": "{HOSTING_TYPE}",
+    "api_endpoint": "http://{PREP_IP_ADDRESS}:9000"
+  }
+}
